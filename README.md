@@ -7,5 +7,6 @@
 
 # 弹幕工具
 + [bilibili ASS 弹幕在线转换](https://tiansh.github.io/us-danmaku/bilibili/)
-+ [浏览器插件-哔哩哔哩助手扩展](https://www.lanzous.com/i8le16f)|[作者](https://www.52pojie.cn/thread-1089035-1-1.html)
++ [BiliBili-down](https://wws.lanzous.com/ioIydgh33pe) | [使用说明](https://www.52pojie.cn/thread-1263804-1-1.html)
++ [浏览器插件-哔哩哔哩助手扩展](https://www.lanzous.com/i8le16f) | [作者](https://www.52pojie.cn/thread-1089035-1-1.html)
 
