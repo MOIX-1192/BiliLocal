@@ -9,7 +9,7 @@
 + [bilibili ASS 弹幕在线转换](https://tiansh.github.io/us-danmaku/bilibili/)
 + [BiliBili-down](https://wws.lanzous.com/ioIydgh33pe) | [使用说明](https://www.52pojie.cn/thread-1263804-1-1.html)
 + [浏览器插件-哔哩哔哩助手扩展](https://www.lanzous.com/i8le16f) | [作者](https://www.52pojie.cn/thread-1089035-1-1.html)
-+ [弹幕盒子]（https://danmubox.github.io/）
++ [弹幕盒子](https://danmubox.github.io/)
 
 # 其他选择
 ## [弹弹PLAY](https://pan.baidu.com/s/1sczUhB7AR576rJLb4Up6mA#list/path=%2F&parentPath=%2Fsharelink1158093947-2798877255)
